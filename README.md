@@ -23,9 +23,9 @@
   - Third-party integrations — Google OAuth & Calendar, booking flows
 
   ### 🎧 Featured work
-  **[Mixed by Yonatan](https://github.com/yonatan-amir/mixedbyyonatan)** — a live client platform I built and used to run my own mixing/mastering business: email + Google auth, audio-submission workflow,
-  Google Calendar booking sync, and a full admin dashboard. Real product, real use.
-  &nbsp;&nbsp;→ **[Live demo](https://yonatan-amir.vercel.app)**
+  **[Mixed by Yonatan](https://mixedbyyonatan--mixed-by-yonatan.us-east4.hosted.app/)** — a live client platform I built and used to run my own mixing/mastering business: email + Google auth, audio-submission
+  workflow, Google Calendar booking sync, and a full admin dashboard. Real product, real use.
+  &nbsp;&nbsp;→ **[Live app](https://mixedbyyonatan--mixed-by-yonatan.us-east4.hosted.app/)**
 
   ### 🧰 Stack
 
