@@ -1,51 +1,48 @@
-# Hi, I'm Yonatan 👋
+  <h1 align="center">Yonatan Amir</h1>
 
-I'm a developer based in Berlin with experience building real client-facing web applications and custom business tools.
+  <p align="center">
+    <b>Full-Stack Developer</b> · React · Next.js · Node · TypeScript<br/>
+    Berlin · building web products for music &amp; creative businesses
+  </p>
 
-My background combines software development, freelance web work, and hands-on problem solving for creative businesses. I’m currently studying at 42 Berlin to strengthen my foundations in C, systems programming, and software engineering.
+  <p align="center">
+    <a href="https://yonatan-amir.vercel.app"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
+    <a href="https://linkedin.com/in/yamir1"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+    <a href="mailto:jonathanamir1@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  </p>
 
-## What I focus on
+  ---
 
-- Full-stack web development
-- Backend and API design
-- Authentication and authorization flows
-- File submission and business workflow systems
-- Growing toward platform, infrastructure, and security-oriented engineering
+  I design, build, and ship real web applications end to end — authentication, dashboards, admin tooling, and third-party integrations. I came to software from running my own music business, so I build for the
+  workflows and people I actually understand.
 
-## Current direction
+  ### 🛠 What I build
+  - Full-stack web apps — Next.js, React, TypeScript, Node, Tailwind
+  - Auth & role-based access, client dashboards, admin back-offices
+  - Backend & APIs, data modeling — Firebase, PostgreSQL
+  - Third-party integrations — Google OAuth & Calendar, booking flows
 
-Right now I’m focused on improving my engineering depth through:
+  ### 🎧 Featured work
+  **[Mixed by Yonatan](https://github.com/yonatan-amir/mixedbyyonatan)** — a live client platform I built and used to run my own mixing/mastering business: email + Google auth, audio-submission workflow,
+  Google Calendar booking sync, and a full admin dashboard. Real product, real use.
+  &nbsp;&nbsp;→ **[Live demo](https://yonatan-amir.vercel.app)**
 
-- C and low-level programming at 42 Berlin
-- data structures and systems thinking
-- building more robust and production-oriented applications
-- sharpening my GitHub and portfolio around stronger technical projects
+  ### 🧰 Stack
 
-## Selected projects
+  ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+  ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+  ![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black)
+  ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+  ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+  ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+  ![Rails](https://img.shields.io/badge/Rails-CC0000?style=flat-square&logo=rubyonrails&logoColor=white)
+  ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+  ![Firebase](https://img.shields.io/badge/Firebase-DD2C00?style=flat-square&logo=firebase&logoColor=white)
+  ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+  ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
-- **Mixed by Yonatan**  
-  A client-facing platform for a music business with authentication, protected dashboard flows, and audio submission management.
+  <sub>C &amp; systems training at 42 Berlin</sub>
 
-- **42Berlin**  
-  My 42 curriculum repository, including C projects and systems-oriented learning.
-
-## Tech I work with
-
-**Languages**  
-C, Python, Ruby, JavaScript, TypeScript
-
-**Frameworks & Tools**  
-Next.js, React, Rails, FastAPI, Firebase, PostgreSQL, Docker, Git
-
-**Currently building toward**  
-Platform engineering, IAM/security-adjacent backend work, and stronger systems-level development
-
-## What I'm looking for
-
-I'm especially interested in roles where I can contribute as a developer while continuing to grow in backend, infrastructure, and systems-oriented engineering.
-
-## Connect
-
-- GitHub: [@Jonathanamir1](https://github.com/Jonathanamir1)
-- LinkedIn: [linkedin.com/in/yamir1](https://linkedin.com/in/yamir1)
-- Email: jonathanamir1@gmail.com
+  ### 💬 Open to
+  Full-stack roles and freelance projects — especially **music, audio, and creative tech**.
